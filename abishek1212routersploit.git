@@ -12,5 +12,8 @@ cd routersploit
 ls
 chmod 777 routersploit
 ls
-mrakrajhacker routersploit
+chmod 777 README.md
 ls
+python2 README.md
+ls
+python2 routersploit
